@@ -50,3 +50,20 @@ Nwigbo Chinaecherem Emmanuella
 Data Analyst | Excel | Power BI | SQL
 
 I am building my data analytics portfolio through practical projects focused on turning data into actionable business insights.
+
+Key Insights
+
+* Regional Performance: The North region recorded the highest sales among the regions shown in the dashboard.
+* Product Performance: Printers were the highest-selling product category by sales value in the dashboard.
+* Sales Monitoring: The dashboard summarizes sales performance using key metrics, including total sales, quantity sold, shipping costs, discounts, and orders.
+* Customer Analysis: The dashboard compares sales across customer types to support customer-segment analysis.
+* Promotional Analysis: The promotion chart provides a basis for comparing sales contributions across promotional categories.
+
+ Business Recommendations
+
+* Regional Strategy: Investigate the factors driving sales in the North region and use those findings to guide regional marketing and inventory planning.
+* Inventory Planning: Review printer demand and stock availability to reduce the risk of stockouts while avoiding unnecessary overstocking.
+* Promotion Evaluation: Compare promotional sales with costs and profitability before increasing campaign spending.
+* Customer Strategy: Use customer-type performance to tailor marketing and retention initiatives.
+* Ongoing Performance Tracking: Monitor sales trends, regional performance, and product contributions regularly to identify changes and support informed business decisions.
+
